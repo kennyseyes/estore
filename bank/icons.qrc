@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/icon">
+        <file>icons/chg_pw.png</file>
+        <file>icons/chg_pw_p.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/quit_p.png</file>
+        <file>icons/record.png</file>
+        <file>icons/record_p.png</file>
+        <file>icons/save.png</file>
+        <file>icons/save_p.png</file>
+        <file>icons/tansfer_p.png</file>
+        <file>icons/transfer.png</file>
+        <file>icons/withdraw.png</file>
+        <file>icons/withdraw_p.png</file>
+        <file>icons/in.png</file>
+        <file>icons/out.png</file>
+        <file>icons/get.png</file>
+        <file>icons/trans.png</file>
+        <file>icons/back.png</file>
+        <file>icons/forget.png</file>
+        <file>icons/login.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/reg.png</file>
+    </qresource>
+</RCC>
