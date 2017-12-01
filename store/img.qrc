@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/timg.jpg</file>
+        <file>img/login.png</file>
+        <file>img/signup.png</file>
+        <file>img/pind_pw.png</file>
+        <file>img/book.jpg</file>
+        <file>img/food.jpg</file>
+        <file>img/sweater.jpg</file>
+        <file>img/back.png</file>
+        <file>img/cart.png</file>
+        <file>img/cart2.png</file>
+        <file>img/Category.png</file>
+        <file>img/comments.png</file>
+        <file>img/cry.png</file>
+        <file>img/cry2.png</file>
+        <file>img/delete.png</file>
+        <file>img/electronics.png</file>
+        <file>img/favorite.png</file>
+        <file>img/favorite2.png</file>
+        <file>img/information.png</file>
+        <file>img/Smile.png</file>
+        <file>img/Smile2.png</file>
+        <file>img/sports.png</file>
+        <file>img/quit.png</file>
+        <file>img/mainpage1.jpg</file>
+        <file>img/mainpg2.jpg</file>
+        <file>img/mainpg3.jpg</file>
+        <file>img/mainpg4.jpg</file>
+        <file>img/mainpg5.jpg</file>
+        <file>img/mainpage.png</file>
+        <file>img/productDetail.png</file>
+    </qresource>
+</RCC>
