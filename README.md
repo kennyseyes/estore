@@ -1,1 +1,2 @@
 # estore
+BUPT school project
